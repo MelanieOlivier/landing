@@ -1,0 +1,30 @@
+.footer {
+  text-align: center;
+  background-color: #2d2b2b;
+  margin-top: 30px;
+  padding: 40px;
+}
+
+.footer > p {
+  margin: O;
+  color: #6b6c6c;
+  font-weight: normal;
+  padding-top: 0;
+}
+
+.footer > p > em {
+  color: red;
+  width: 5px;
+}
+
+.footer > ul {
+  padding: 0;
+}
+
+.footer > ul > li {
+  display: inline-block;
+  padding: 0;
+  color: #3bdd88;
+  font-size: 30px;
+  padding: 0 5px;
+}
